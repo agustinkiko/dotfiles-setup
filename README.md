@@ -28,7 +28,8 @@ cd nerd-fonts
 ./install.sh Hack
 
 # Nerd Fonts - Hack font (via homebrew)
-brew tap homebrew/cask-fonts
+#brew tap homebrew/cask-fonts
+brew tap homebrew/linux-fonts
 brew install font-hack-nerd-font
 ```
 
